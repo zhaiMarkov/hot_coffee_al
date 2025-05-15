@@ -1,0 +1,37 @@
+
+INFO: 2024/11/12 21:37:13 main.go:22: Configuration initialized successfully
+INFO: 2024/11/12 21:37:13 main.go:25: Initialized JSON DB repository
+INFO: 2024/11/12 21:37:13 main.go:27: Application service initialized
+INFO: 2024/11/12 21:37:13 main.go:29: HTTP Handler created
+INFO: 2024/11/12 21:37:22 menu.go:23: MenuByIDHandler - GET request received
+INFO: 2024/11/12 21:37:22 menu.go:82: getMenuByID - Fetching menu item with ID: latte
+INFO: 2024/11/12 21:37:35 menu.go:23: MenuByIDHandler - DELETE request received
+INFO: 2024/11/12 21:37:35 menu.go:129: deleteMenuByID - Deleting menu item with ID: latte
+INFO: 2024/11/12 21:37:35 menu.go:139: deleteMenuByID - Menu item with ID latte deleted successfully
+INFO: 2024/11/13 00:04:22 main.go:22: Configuration initialized successfully
+INFO: 2024/11/13 00:04:22 main.go:25: Initialized JSON DB repository
+INFO: 2024/11/13 00:04:22 main.go:27: Application service initialized
+INFO: 2024/11/13 00:04:22 main.go:29: HTTP Handler created
+INFO: 2024/11/13 17:16:43 main.go:22: Configuration initialized successfully
+INFO: 2024/11/13 17:16:43 main.go:25: Initialized JSON DB repository
+INFO: 2024/11/13 17:16:43 main.go:27: Application service initialized
+INFO: 2024/11/13 17:16:43 main.go:29: HTTP Handler created
+INFO: 2024/11/13 17:27:03 menu.go:9: MenuHandler - GET request received
+INFO: 2024/11/13 17:27:03 menu.go:39: getAllMenu - Fetching all menu items
+INFO: 2024/11/13 17:27:21 menu.go:9: MenuHandler - POST request received
+INFO: 2024/11/13 17:27:21 menu.go:56: addMenu - Adding new menu item
+INFO: 2024/11/13 17:27:30 menu.go:9: MenuHandler - POST request received
+INFO: 2024/11/13 17:27:30 menu.go:56: addMenu - Adding new menu item
+INFO: 2024/11/13 17:27:39 menu.go:9: MenuHandler - PUT request received
+INFO: 2024/11/13 17:27:49 menu.go:23: MenuByIDHandler - POST request received
+INFO: 2024/11/13 17:28:02 menu.go:23: MenuByIDHandler - PUT request received
+INFO: 2024/11/13 17:28:02 menu.go:103: updateMenuByID - Updating menu item with ID: espresso
+INFO: 2024/11/13 17:28:02 menu.go:124: updateMenuByID - Menu item with ID espresso updated successfully
+INFO: 2024/11/13 17:28:28 menu.go:23: MenuByIDHandler - PUT request received
+INFO: 2024/11/13 17:28:28 menu.go:103: updateMenuByID - Updating menu item with ID: espresso
+INFO: 2024/11/13 17:28:28 menu.go:124: updateMenuByID - Menu item with ID espresso updated successfully
+INFO: 2024/11/13 17:37:49 main.go:22: Configuration initialized successfully
+INFO: 2024/11/13 17:37:49 main.go:25: Initialized JSON DB repository
+INFO: 2024/11/13 17:37:49 main.go:27: Application service initialized
+INFO: 2024/11/13 17:37:49 main.go:29: HTTP Handler created
+INFO: 2024/11/13 17:37:55 menu.go:23: MenuByIDHandler - PUT request received
